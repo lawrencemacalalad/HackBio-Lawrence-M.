@@ -1,4 +1,8 @@
+#!/bin/bash
 
+cd Documents
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+ls -a
+git add --all
 
-$ git clone https://github.com/lawrencemacalalad/Team-Einstein.git
-
+| tr "\\t" "," > file.csv
