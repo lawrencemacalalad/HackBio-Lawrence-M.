@@ -6,4 +6,3 @@ print("Biostack: Genomics")
 print("Slack Username: @LawrenceM")
 
 
-input("Press any key to exit")
